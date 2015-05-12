@@ -33,7 +33,7 @@ Page {
                 picture: "asset:///DSC_5270.jpg"
             
                 onSalaryChanged: {
-                    salaryLabel.text = "Salary: " + newSalary;
+                    salaryLabel.text = "Saladry: " + newSalary;
                 }
             }
             
